@@ -28,13 +28,16 @@ Make sure you have Node.js (https://nodejs.org/) installed.
    git clone https://github.com/supem137/frontend_Task.git
    
 2. Navigate to the project directory:
+   ```
    cd ATDigitalLandingPage_task
 
-3. Install dependencies:
+4. Install dependencies:
+   ```
    npm install
 
-4. Run the Project
+6. Run the Project
    To run the project locally, use the following command:
+   ```
    npm run dev
 
 ### Acknowledgments
