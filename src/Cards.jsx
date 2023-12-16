@@ -4,7 +4,7 @@ const Cards = () => {
       <div className="xl:mx-[188px] lg:mx-[152px] md:mx-[40px] sm:mx-[20px] ">
         <div className="flex flex-col items-center justify-center md:flex-row">
           <div className="flex-none xl:w-[414px] lg:w-[346px] md:w-[275px] w-[275px]">
-            <img className="object-cover" src="./src/assets/img1.png"></img>
+            <img className="object-cover" src="/img1.png"></img>
           </div>
           <div className="xl:ml-[108px] lg:ml-[20px] md:ml-[20px] xl:w-[1064px] lg:w-[896px] md:w-[393px] w-[335px]">
             <p className="text-[#6B3CC9] text-[27px] font-poppins leading-[33px] tracking-[0.4px] md:text-start text-center ">
@@ -41,7 +41,7 @@ const Cards = () => {
             </div>
           </div>
           <div className="flex-none xl:w-[414px] lg:w-[346px] md:w-[275px] w-[275px] md:order-2 order-1">
-            <img className="object-cover" src="./src/assets/img2.png"></img>
+            <img className="object-cover" src="/img1.png"></img>
           </div>
         </div>
       </div>
