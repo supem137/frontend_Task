@@ -41,7 +41,6 @@ Make sure you have Node.js (https://nodejs.org/) installed.
    npm run dev
 
 ### Acknowledgments
-Used libraries, frameworks, tools.
 React JS
-Tailwind css
-Vs code
+Tailwind CSS
+VS Code
