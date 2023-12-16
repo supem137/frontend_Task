@@ -6,30 +6,8 @@ const Cards = () => {
           <div className="flex-none xl:w-[414px] lg:w-[346px] md:w-[275px] w-[275px]">
             <img
               className="object-cover"
-              src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/content-gallery-3.png"
+              src="https://firebasestorage.googleapis.com/v0/b/landingpage-fa2d7.appspot.com/o/img1.png?alt=media&token=b9f84b44-4106-46b9-988f-e972e30b2c11"
             ></img>
-          </div>
-          <div className="xl:ml-[108px] lg:ml-[20px] md:ml-[20px] xl:w-[1064px] lg:w-[896px] md:w-[393px] w-[335px]">
-            <p className="text-[#6B3CC9] text-[27px] font-poppins leading-[33px] tracking-[0.4px] md:text-start text-center ">
-              Web & Mobile App Development
-            </p>
-            <p className="text-[#000] font-inter text-[16px] font-normal flex-initial my-[20px] md:text-start text-center">
-              Your web and mobile Apps are pieces of the puzzle to grow your
-              business. We use frameworks which tailor content and engagement
-              methods to respond to different intents shown by your potential
-              customers who interact with your business online.
-            </p>
-            <div className="flex items-center justify-center w-[129px] h-[38px] bg-[#F28D35] rounded text-[#FFF] font-inter text-[14px] font-bold md:mx-0 mx-auto">
-              LEARN MORE
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div className="xl:mx-[188px] lg:mx-[152px] md:mx-[40px] sm:mx-[20px] ">
-        <div className="flex flex-col items-center justify-center md:flex-row">
-          <div className="flex-none xl:w-[414px] lg:w-[346px] md:w-[275px] w-[275px]">
-            <img className="object-cover" src="./src/assets/img1.png"></img>
           </div>
           <div className="xl:ml-[108px] lg:ml-[20px] md:ml-[20px] xl:w-[1064px] lg:w-[896px] md:w-[393px] w-[335px]">
             <p className="text-[#6B3CC9] text-[27px] font-poppins leading-[33px] tracking-[0.4px] md:text-start text-center ">
@@ -66,7 +44,10 @@ const Cards = () => {
             </div>
           </div>
           <div className="flex-none xl:w-[414px] lg:w-[346px] md:w-[275px] w-[275px] md:order-2 order-1">
-            <img className="object-cover" src="./assets/img2.png"></img>
+            <img
+              className="object-cover"
+              src="https://firebasestorage.googleapis.com/v0/b/landingpage-fa2d7.appspot.com/o/img2.png?alt=media&token=49ff0df7-4570-47e2-8c39-1751d3ae471d"
+            ></img>
           </div>
         </div>
       </div>
